@@ -1,0 +1,15 @@
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\EBayTest.deps.json
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\EBayTest.runtimeconfig.json
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\EBayTest.runtimeconfig.dev.json
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\EBayTest.dll
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.csproj.CoreCompileInputs.cache
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.AssemblyInfoInputs.cache
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.AssemblyInfo.cs
+D:\workspace-vs\AutomationSolution\EBayTest\bin\Debug\netcoreapp2.1\EBayTest.pdb
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.dll
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.pdb
+D:\workspace-vs\AutomationSolution\EBayTest\obj\Debug\netcoreapp2.1\EBayTest.csprojAssemblyReference.cache
